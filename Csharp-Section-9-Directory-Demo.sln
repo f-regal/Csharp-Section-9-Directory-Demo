@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp-Section-9-Directory-Demo", "Csharp-Section-9-Directory-Demo\Csharp-Section-9-Directory-Demo.csproj", "{DA971577-8010-4BD7-BE91-A020EC82735A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA971577-8010-4BD7-BE91-A020EC82735A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{DA971577-8010-4BD7-BE91-A020EC82735A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{DA971577-8010-4BD7-BE91-A020EC82735A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{DA971577-8010-4BD7-BE91-A020EC82735A}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D86EFD8E-0C53-468E-879E-ABA52243A076}
+	EndGlobalSection
+EndGlobal
